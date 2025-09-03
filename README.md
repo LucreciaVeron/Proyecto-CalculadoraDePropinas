@@ -36,7 +36,7 @@ Este proyecto fue creado como parte del curso de Udemy:
 
 1. Clonar el repositorio:
    ```bash
-   git clone https://github.com/TU-USUARIO/Restaurante-Pedidos.git
+   git clone https://github.com/LucreciaVeron/Proyecto-CalculadoraDePropinas.git
    ```
 
 2. Ingresar a la carpeta del proyecto:
